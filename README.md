@@ -1,4 +1,4 @@
-# Voxel-Art
+# Voxel Construct
 
 Install my-project with npm
 
